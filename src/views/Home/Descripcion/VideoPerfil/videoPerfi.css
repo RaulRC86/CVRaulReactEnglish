@@ -1,0 +1,15 @@
+.contenedorVideo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+}
+
+@media(max-width: 576px){
+  .contenedorVideo{
+    display: flex;
+    justify-self: center;
+    margin-top: 10px;
+  }
+}

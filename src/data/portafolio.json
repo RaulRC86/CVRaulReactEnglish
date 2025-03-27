@@ -1,0 +1,44 @@
+[
+  {
+    "id": "po1",
+    "img": "/hablaConmigo.png",
+    "title": "HablaConmigo (SpeakWithMe), an augmentative and alternative communication web application for non-verbal people (2025)",
+    "desc": "HablaConmigo is an augmentative and alternative communication web application that allows non-verbal people to communicate using pictograms and synthesized speech. This application was developed using HTML, CSS, and JavaScript, as well as the Web Speech API for voice synthesis.",
+    "link": "https://hablaconmigoapp.netlify.app/"
+  },
+  {
+    "id": "po2",
+    "img": "/VoiceCalc.png",
+    "title": "VoiceCalc, Calculator with Speech Recognition (2025)",
+    "desc": "The web application VoiceCalc, developed with speech recognition technologies in both English and Spanish, aims to promote inclusivity and accessibility by allowing users to interact with the calculator using voice instead of a keyboard or mouse. It was built using Google's Web Speech API.",
+    "link": "https://voice-calc.vercel.app/"
+  },
+  {
+    "id": "po3",
+    "img": "/out_of_eden.png",
+    "title": "Out of Eden, 2D Web Video Game (2025)",
+    "desc": "Desktop view of the video game Out of Eden, developed with the Phaser 3 framework for creating 2D games with JavaScript.",
+    "link": "https://out-of-eden.vercel.app/"
+  },
+  {
+    "id": "po4",
+    "img": "/NotasApp.png",
+    "title": "NotasApp, Web Application for Grade Tracking (2025)",
+    "desc": "Registration form of the NotasApp web application, a collaborative project where I contributed to the frontend development using Vanilla JavaScript, HTML5, and CSS3.",
+    "link": "https://github.com/JerlibGnzlz/registro-de-notas"
+  },
+  {
+    "id": "po5",
+    "img": "/sangomvistamovil.jpeg",
+    "title": "San-Gom Taekwondo, Responsive Website (2024)",
+    "desc": "Website for the San-Gom Taekwondo academy in Villa Alemana, V region, Chile. This page was developed using HTML, CSS, and JavaScript technologies. Additionally, the Bootstrap framework, CSS Grid, and Media Queries were used to create a responsive design, ensuring a quality experience on different devices. The website includes a map displaying the academy's location using Google Maps, making it easier for clients to find and contact the academy.",
+    "link": "https://sangomtaekwondo.cl/"
+  },
+  {
+    "id": "po6",
+    "img": "/porcentajes.png",
+    "title": "Percentage Exercises, Educational Application (2024)",
+    "desc": "Web application that generates random percentage exercises for users to practice and improve their math skills while receiving feedback on their completed exercises.",
+    "link": "https://raulrc86.github.io/EjerciciosPorcentajes/"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p001",
+    "tipo": "Master's Degree",
+    "nombre": "Teaching English as a Foreign Language",
+    "entidad": "Universidad Andrés Bello, Chile",
+    "fecha": "(2018-2020)",
+    "desc": "Professional master's degree focused on acquiring up-to-date theoretical foundations in areas such as second language acquisition, lesson planning, assessment, classroom management, and pedagogical material development, as well as training in academic research."
+  },
+  {
+    "id": "p002",
+    "tipo": "Language Certification",
+    "nombre": "C2: Proficiency/CPE",
+    "entidad": "University of Cambridge, England",
+    "fecha": "(2018)",
+    "desc": "Certification of English proficiency at C2 level, the highest in the Common European Framework of Reference (CEFR)."
+  },
+  {
+    "id": "p003",
+    "tipo": "Methodology Certification",
+    "nombre": "TKT/Teaching Knowledge Test Modules 1, 2 & 3",
+    "entidad": "University of Cambridge, England",
+    "fecha": "(2016)",
+    "desc": "Certification of knowledge in English language teaching methodologies, covering areas such as language structure, current methodologies, and classroom management."
+  },
+  {
+    "id": "p004",
+    "tipo": "Professional Degree",
+    "nombre": "Bachelor of Education and English Teacher",
+    "entidad": "Pontificia Universidad Católica de Valparaíso, Chile",
+    "fecha": "(2012-2016)",
+    "desc": "Nine-semester professional program, including training in English language proficiency, linguistics, literature, and methodology in areas such as assessment and lesson planning."
+  }
+]

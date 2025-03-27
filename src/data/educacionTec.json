@@ -1,0 +1,58 @@
+[
+  {
+    "id": "t001",
+    "tipo": "Bootcamp",
+    "nombre": "Fullstack JavaScript Development",
+    "entidad": "Desafío Latam, Chile",
+    "fecha": "(2024-Present)",
+    "desc": "A one-year hands-on course covering Frontend Development with technologies such as HTML5, CSS3, JavaScript ES6, and React. Additionally, it includes Backend Development using NodeJS and database management with SQL."
+  },
+  {
+    "id": "t002",
+    "tipo": "Higher Technical Degree",
+    "nombre": "Programming Analyst",
+    "entidad": "CFT Cenco, Chile",
+    "fecha": "(2024-2025)",
+    "desc": "A professional technical training program covering areas such as programming paradigms, databases, project management, and other key topics in the tech industry."
+  },
+  {
+    "id": "t003",
+    "tipo": "Diploma",
+    "nombre": "UX/UI Applied to Web Development",
+    "entidad": "SENCE and Fundación Telefónica, Chile",
+    "fecha": "(2024)",
+    "desc": "A mostly asynchronous diploma program covering user experience principles, user interface development using frontend technologies, and cybersecurity fundamentals."
+  },
+  {
+    "id": "t004",
+    "tipo": "Live Course",
+    "nombre": "Adopting the Agile Mindset: Agile Context",
+    "entidad": "Academia Ágil, Mexico",
+    "fecha": "(2024)",
+    "desc": "An introductory course on agile methodologies for project management in the tech industry."
+  },
+  {
+    "id": "t005",
+    "tipo": "Asynchronous Course",
+    "nombre": "Advanced CSS",
+    "entidad": "Desafío Latam, Chile",
+    "fecha": "(2024)",
+    "desc": "An asynchronous deep-dive course on CSS, including properties like Flexbox, CSS Grid, and Media Queries to develop responsive designs."
+  },
+  {
+    "id": "t006",
+    "tipo": "Asynchronous Course",
+    "nombre": "Introduction to Web Development",
+    "entidad": "Desafío Latam, Chile",
+    "fecha": "(2023)",
+    "desc": "An introductory course on web development for static web pages, covering technologies such as HTML5, CSS3, and version control with Git and GitHub."
+  },
+  {
+    "id": "t007",
+    "tipo": "Asynchronous Course",
+    "nombre": "Computer Assembly and Repair",
+    "entidad": "Comunidad Reparando, Argentina",
+    "fecha": "(2023)",
+    "desc": "A course covering hardware fundamentals, cleaning, maintenance, and replacement of components for desktop computers."
+  }
+]
