@@ -6,7 +6,7 @@ export const Footer = () => {
     <footer
       className="bg-light d-flex flex-column align-items-center fs-5 border-top border-top-5 border-bottom border-bottom-5 mt-4"
     >
-      <p>© 2024 Creado por Raúl Rodríguez - Soluciones Informáticas.</p>
+      <p>©  Created by Raúl Rodríguez Clavero, Chile 2025.</p>
       <div className="contenedor2 mb-3">
         <div>
           <a href="https://wa.me/56972033734" target="_blank"
