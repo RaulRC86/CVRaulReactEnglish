@@ -1,9 +1,11 @@
 import { NavLink } from 'react-router-dom';
 import './navbar.css';
+import { BotonVoz } from '../../utilities/BotonVoz';
 
 
 export const Navbar = () => {
   return (
+    <>
     <nav className="navbar navbar-expand-md navbar-light bg-light">
       <div className="container-fluid">
         <img
@@ -51,5 +53,7 @@ export const Navbar = () => {
         </div>
       </div>
     </nav>
+    <BotonVoz/>
+    </>
   );
 };
